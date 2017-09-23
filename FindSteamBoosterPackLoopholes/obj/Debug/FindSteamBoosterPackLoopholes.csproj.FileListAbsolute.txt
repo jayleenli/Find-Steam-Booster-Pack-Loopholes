@@ -1,0 +1,16 @@
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes.csprojResolveAssemblyReference.cache
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\MainWindow.g.cs
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\App.g.cs
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes_MarkupCompile.cache
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes_MarkupCompile.lref
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\bin\Debug\FindSteamBoosterPackLoopholes.exe.config
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\bin\Debug\FindSteamBoosterPackLoopholes.exe
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\bin\Debug\FindSteamBoosterPackLoopholes.pdb
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\InformationBox.g.cs
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\MainWindow.baml
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\InformationBox.baml
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes.g.resources
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes.Properties.Resources.resources
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes.csproj.GenerateResource.Cache
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes.exe
+c:\users\jayle\documents\visual studio 2017\Projects\FindSteamBoosterPackLoopholes\FindSteamBoosterPackLoopholes\obj\Debug\FindSteamBoosterPackLoopholes.pdb

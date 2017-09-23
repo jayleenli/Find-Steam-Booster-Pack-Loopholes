@@ -1,0 +1,19 @@
+﻿<Window x:Class="FindSteamBoosterPackLoopholes.InformationBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FindSteamBoosterPackLoopholes"
+        mc:Ignorable="d"
+        Title="InformationBox" Height="482.987" Width="787.579">
+    <Grid>
+        <TextBlock FontSize="20" TextWrapping="Wrap"> <Run FontStyle="Italic" Foreground="#FF007AFF" Text="So what does this program even do?" /> <LineBreak/> This program will read all available booster packs that you can create on steam. But of course I don't know how to run a Steam login API so you will need to manually insert your logged in HTML booster creator page in the textbox. <LineBreak/>
+            <Run FontStyle="Italic" Foreground="#FF007AFF" Text="What does it do with the information?" /> <LineBreak/> It will search through every game and calculate if the cost of the booster pack in gems(converted to USD based on current sack of gems price) is less than the average selling price of 3 cards of the game. If the Average selling price is more than the cost, then that means PROFIT!!! <LineBreak/>
+        <Run FontStyle="Italic" Foreground="#FF007AFF" Text="Ok, how long does this take?" /> <LineBreak/> It's a lengthly algorithm so I have implements different checks that will allow a faster runtime. The more games you can create boosters for, the longer it will take (obviously).<LineBreak/>
+        <Run FontStyle="Italic" Foreground="#FF007AFF" Text="Help! I can't copy my html!" /> <LineBreak/> Copy your HTML, and then paste it in google search bar (automatically converts into one line) then copy that long line, then repaste back into this program.<LineBreak/>
+        <LineBreak/>
+        </TextBlock>
+        <TextBlock TextAlignment="Center" Margin="0,422,-0.2,-0.4"> <Run Foreground="#FFA1BAD6" Text="Really short and simple program made by Jayleen Li" /></TextBlock>
+
+    </Grid>
+</Window>
